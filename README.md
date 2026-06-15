@@ -93,7 +93,12 @@ The dataset contains booking information, ride status, vehicle details, customer
 ---
 
 ## Dashboard Preview
-<img width="1354" height="724" alt="Screenshot 2026-01-10 122521" src="https://github.com/user-attachments/assets/b5a95ee4-0ea1-4cda-ab85-7d6e23ef2972" />
+<img width="1366" height="730" alt="Screenshot 2026-01-10 122419" src="https://github.com/user-attachments/assets/36d12d4c-7aa9-41ef-9ed0-d9c32616f2cb" />
+<img width="1338" height="725" alt="Screenshot 2026-01-10 122433" src="https://github.com/user-attachments/assets/3fb92368-c222-4da5-8cbf-0369596727e5" />
+<img width="1360" height="717" alt="Screenshot 2026-01-10 122446" src="https://github.com/user-attachments/assets/5db45941-dae2-450f-8317-ba523889ee7b" />
+<img width="1341" height="716" alt="Screenshot 2026-01-10 122457" src="https://github.com/user-attachments/assets/ebf13973-994f-43bf-b0bb-43f1e777ed3a" />
+<img width="1349" height="721" alt="Screenshot 2026-01-10 122509" src="https://github.com/user-attachments/assets/e345a1bd-628e-48a7-bfa6-616cfe54420b" />
+<img width="1354" height="724" alt="Screenshot 2026-01-10 122521" src="https://github.com/user-attachments/assets/97e1594e-ea25-4155-8810-2fadf3be007d" />
 
 ---
 
